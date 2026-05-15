@@ -70,13 +70,13 @@ The network supports both wired and wireless communication and demonstrates core
 
 Network Topology: ![Topology](1-topology.png)
 
-Router DHCP Configuration: ![Router CLI](2-router CLI.png)
+Router DHCP Configuration: ![Router CLI](2-router_CLI.png)
 
-Successful Connectivity Test: ![Ping Test](3-successful ping from PC to server.png)
+Successful Connectivity Test: ![Ping Test](3-successful_ping_from_PC_to_server.png)
 
-Wireless Connectivity: ![WiFi](4-laptop connected to wifi.png)
+Wireless Connectivity: ![WiFi](4-laptop_connected_to_wifi.png)
 
-Office Portal: ![Portal](5-office portal webpage.png)
+Office Portal: ![Portal](5-office_portal_webpage.png)
 
 Simulation Mode: ![Simulation](6-simulation.png)
 
