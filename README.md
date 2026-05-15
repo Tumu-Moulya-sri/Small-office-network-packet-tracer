@@ -68,17 +68,23 @@ The network supports both wired and wireless communication and demonstrates core
 
 # screenshots:
 
-Network Topology: ![Topology](1-topology.png)
+Network Topology: 
+![Topology](1-topology.png)
 
-Router DHCP Configuration: ![Router CLI](2-router_CLI.png)
+Router DHCP Configuration: 
+![Router CLI](2-router_CLI.png)
 
-Successful Connectivity Test: ![Ping Test](3-successful_ping_from_PC_to_server.png)
+Successful Connectivity Test: 
+![Ping Test](3-successful_ping_from_PC_to_server.png)
 
-Wireless Connectivity: ![WiFi](4-laptop_connected_to_wifi.png)
+Wireless Connectivity: 
+![WiFi](4-laptop_connected_to_wifi.png)
 
-Office Portal: ![Portal](5-office_portal_webpage.png)
+Office Portal: 
+![Portal](5-office_portal_webpage.png)
 
-Simulation Mode: ![Simulation](6-simulation.png)
+Simulation Mode: 
+![Simulation](6-simulation.png)
 
 
 
