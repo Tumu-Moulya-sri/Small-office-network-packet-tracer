@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Office Internal Portal</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+        }
+
+        .header {
+            background-color: #1f3c88;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+        }
+
+        .container {
+            padding: 30px;
+        }
+
+        .card {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #1f3c88;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        .status {
+            color: green;
+            font-weight: bold;
+        }
+
+        .footer {
+            background-color: #1f3c88;
+            color: white;
+            text-align: center;
+            padding: 12px;
+            margin-top: 30px;
+        }
+
+        .network-box {
+            background-color: #eef3ff;
+            padding: 15px;
+            border-left: 5px solid #1f3c88;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="header">
+        <h1>Small Office Internal Portal</h1>
+        <p>Cisco Packet Tracer Infrastructure Simulation</p>
+    </div>
+
+    <div class="container">
+
+        <div class="card">
+            <h2>Project Overview</h2>
+
+            <p>
+                This office network infrastructure was designed and simulated using
+                Cisco Packet Tracer.
+            </p>
+
+            <p>
+                The network supports both wired and wireless communication between
+                office devices.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Implemented Features</h2>
+
+            <ul>
+                <li>DHCP Automatic IP Assignment</li>
+                <li>Router and Switch Configuration</li>
+                <li>Wireless Access Point Setup</li>
+                <li>Server Hosting</li>
+                <li>Network Printer Integration</li>
+                <li>ICMP Ping Connectivity Testing</li>
+                <li>ARP and MAC Learning Observation</li>
+                <li>Simulation Mode Packet Analysis</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Network Status</h2>
+
+            <p class="status">● Office Network Operational</p>
+
+            <div class="network-box">
+                <p><strong>Gateway:</strong> 192.168.10.1</p>
+                <p><strong>DHCP Network:</strong> 192.168.10.0/24</p>
+                <p><strong>SSID:</strong> OfficeWiFi</p>
+                <p><strong>Server IP:</strong> 192.168.10.20</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Devices Connected</h2>
+
+            <ul>
+                <li>Employee PCs</li>
+                <li>Wireless Laptops</li>
+                <li>Core Switch</li>
+                <li>Access Switch</li>
+                <li>Edge Router</li>
+                <li>Network Printer</li>
+                <li>Web Server</li>
+                <li>Wireless Access Point</li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="footer">
+        Created by T. Moulya sri | Cisco Packet Tracer Mini Project
+    </div>
+
+</body>
+
+</html>
