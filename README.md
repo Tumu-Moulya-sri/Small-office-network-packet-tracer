@@ -66,7 +66,19 @@ The network supports both wired and wireless communication and demonstrates core
 - Wireless Networking
 - Basic Server Hosting
 
+# screenshots:
 
+Network Topology: ![Topology](1-topology.png)
+
+Router DHCP Configuration: ![Router CLI](2-router CLI.png)
+
+Successful Connectivity Test: ![Ping Test](3-successful ping from PC to server.png)
+
+Wireless Connectivity: ![WiFi](4-laptop connected to wifi.png)
+
+Office Portal: ![Portal](5-office portal webpage.png)
+
+Simulation Mode: ![Simulation](6-simulation.png)
 
 
 
