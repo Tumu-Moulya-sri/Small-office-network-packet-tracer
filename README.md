@@ -67,10 +67,6 @@ The network supports both wired and wireless communication and demonstrates core
 - Basic Server Hosting
 
 
-# Screenshots:
-![Topology](screenshots/1-topology.png)
-
-
 
 
 
